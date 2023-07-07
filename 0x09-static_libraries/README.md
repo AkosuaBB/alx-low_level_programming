@@ -1,1 +1,1 @@
-static libraries assignment
+C - Static libraries assignment
